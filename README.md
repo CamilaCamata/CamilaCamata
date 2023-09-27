@@ -3,9 +3,12 @@
 
 **CamilaCamata/CamilaCamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- Atualmente cursando Engenharia da Computação na UFES (período: 2/10);
-- Apredendo linguagem C;
-- Pronomes: ela/dela;
+👷🏾‍♀️ Técnólogo em Aquicultura - IFES;
+
+🎓 Cursando Engenharia da Computação na UFES (período: 2/10);
+
+👩🏾‍💻 Atualmente estudando linguagem C;
+
 
 <div align="center">
   <a href="[https://github.com/CamilaCamata]">
