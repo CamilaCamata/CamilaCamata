@@ -1,4 +1,4 @@
-## Olá! eu sou a Camila Camata
+## Olá! Eu sou a Camila Camata
 
 
 **CamilaCamata/CamilaCamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
